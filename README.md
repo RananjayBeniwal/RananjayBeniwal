@@ -1,23 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Rananjay
 
-<!--
-**RananjayBeniwal/RananjayBeniwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer | AI & ML Enthusiast | Cybersecurity Learner
 
-Here are some ideas to get you started:
+I'm passionate about building innovative solutions with technology. Currently exploring **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Software Development** while strengthening my skills in **Python** and **Java**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+---
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+## 🔥 About Me
+
+- 🎓 Future Computer Science Student
+- 🤖 Interested in AI, Machine Learning & Generative AI
+- 🔐 Exploring Cybersecurity & Ethical Hacking
+- 💻 Love Coding and Problem Solving
+- 🌱 Continuously Learning New Technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Interests
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0078D4?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=for-the-badge)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rananjay-beniwal-177b47409)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([YOUR_X_URL](https://x.com/RananjayBeniwal))
