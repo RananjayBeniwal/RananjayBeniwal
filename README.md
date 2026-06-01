@@ -8,10 +8,10 @@ I'm passionate about building innovative solutions with technology. Currently ex
 
 ## 🔥 About Me
 
-- 🎓 Future Computer Science Student
+- 🎓 En route to Computer Science Student
 - 🤖 Interested in AI, Machine Learning & Generative AI
 - 🔐 Exploring Cybersecurity & Ethical Hacking
-- 💻 Love Coding and Problem Solving
+- 💻 Passionate About Coding and Problem Solving
 - 🌱 Continuously Learning New Technologies
 
 ---
